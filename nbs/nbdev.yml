@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-test"
+  site-url: "https://jmostoller-cohere.github.io/nbdev-test"
+  description: "Just a little test for nbdev."
+  repo-branch: main
+  repo-url: "https://github.com/jmostoller-cohere/nbdev-test"
